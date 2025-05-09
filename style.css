@@ -123,7 +123,7 @@ p {
     max-width: 600px;
     margin: auto;
     padding: 20px;
-    gap: 30px;
+    gap: 10px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, auto);
@@ -158,13 +158,4 @@ p {
 
 }
 
-
-.personagem-selecionar {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    border: 1px solid #ccc;
-    padding: 10px;
-    width: 150px;
-}
 
